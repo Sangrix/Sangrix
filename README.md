@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-major in 🏛️ Finance and Banking, 💻 Computer Science and Engineering.
+major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
 <!--
 **Sangrix/Sangrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
