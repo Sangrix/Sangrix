@@ -2,10 +2,12 @@
 
 major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sangrix&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&layout=compact&theme=dark" alt="Top Langs" />
-</div>
+</p>
+
 
 
 <!--
