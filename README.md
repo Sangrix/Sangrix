@@ -3,12 +3,10 @@
 major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
 <br>
+📊 <strong>GitHub Stats</strong>  
+![Sangrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangrix&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrixtheme=onedark)
 
-<p align="center">
-  📊 <strong>GitHub Stats</strong>  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&layout=compact&theme=dark" alt="Top Langs" />
-</p>
 
 
 
