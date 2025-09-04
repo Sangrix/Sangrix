@@ -2,7 +2,7 @@
 
 major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&layout=compact&theme=onedark)
 
 <!--
 **Sangrix/Sangrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
