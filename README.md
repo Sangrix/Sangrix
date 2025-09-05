@@ -3,7 +3,7 @@
 major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 
 <p align="center">
