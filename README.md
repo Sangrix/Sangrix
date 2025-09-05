@@ -14,7 +14,7 @@ major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 ### 🛠️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,r,spring" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,spring,r" />
   </a>
 </p>
 
