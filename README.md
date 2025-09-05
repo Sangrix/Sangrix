@@ -4,16 +4,23 @@ major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
 
 ---
-
+## 📖 Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nginx,docker,linux,githubactions" />
   </a>
 </p>
 
 
+## 🛠️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,r,spring" />
+  </a>
+</p>
 
-#### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 
 <p align="center">
