@@ -2,8 +2,6 @@
 
 major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
-
----
 ### 📖 Studying
 <p align="center">
   <a href="https://skillicons.dev">
