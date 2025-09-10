@@ -4,7 +4,7 @@ major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
 
 
 ---
-### 📖 Studying
+### 📖 🌱 Studying
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,linux,githubactions,docker,nginx" />
