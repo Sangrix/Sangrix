@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-major in 🏛️Finance and Banking, 💻Computer Science and Engineering.
+major in ***Finance and Banking***, ***Computer Science and Engineering***.
 
 
 ---
