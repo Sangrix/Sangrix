@@ -14,7 +14,7 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***.
 ### 🛠️ Skill
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ubuntu,spring,mysql,postgres,r,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,r,ubuntu,docker" />
   </a>
 </p>
 
