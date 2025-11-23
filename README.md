@@ -15,7 +15,7 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
 **Language**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,py,java" />
+    <img src="https://skillicons.dev/icons?i=r,c,cpp,py,java" />
   </a>
 
   **Framework, Cloud**
