@@ -12,13 +12,13 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
 </p>
 
 ### 🛠️ Skills
-**Language**
+**-Language**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,r,py,java" />
   </a>
 
-  **Framework, Cloud**
+  **-Framework, Cloud**
   <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,spring,aws,ubuntu,docker" />
