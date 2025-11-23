@@ -19,6 +19,7 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
   </a>
 
   ***Framework, Cloud***
+  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,aws,ubuntu,docker" />
   </a>
