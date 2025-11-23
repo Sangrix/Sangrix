@@ -7,14 +7,14 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
 ### 📖 Studying
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=githubactions,linux,nginx" />
   </a>
 </p>
 
 ### 🛠️ Skill
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,r,py,java,spring,mysql,postgres,aws,ubuntu,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,py,java,spring,mysql,postgres,aws,ubuntu,docker" />
   </a>
 </p>
 
