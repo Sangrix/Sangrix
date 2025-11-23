@@ -11,10 +11,13 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
   </a>
 </p>
 
-### 🛠️ Skill
+### 🛠️ SkillS
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,r,py,java,spring,mysql,postgres,aws,ubuntu,docker" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,aws,ubuntu,docker" />
   </a>
 </p>
 
