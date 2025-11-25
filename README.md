@@ -24,8 +24,6 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&theme=onedark&layout=compact&card_width=450&langs_count=6" alt="Top Langs" />
 </p>
 
-[![Sangrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangrix&show_icons=true&theme=onedark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
