@@ -16,6 +16,7 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,r,py,java,spring,mysql,postgres,aws,ubuntu,docker" />
   </a>
+</p>
 
 ### 📈 GitHub Stats
 <p align="left">
