@@ -20,9 +20,9 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
 
 ### 📈 GitHub Stats
 
-![Sangrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangrix&show_icons=true&theme=dracula&count_private=true)
+![Sangrix's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sangrix&show_icons=true&theme=dracula&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&theme=dracula&layout=compact&card_width=450&langs_count=6)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sangrix&theme=dracula&layout=compact&card_width=450&langs_count=6)
 
 
 
