@@ -7,7 +7,7 @@ major in ***"Finance and Banking***, ***Computer Science and Engineering"***
 ### 📖 Studying
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nodejs,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,linux,redis" />
   </a>
 </p>
 
