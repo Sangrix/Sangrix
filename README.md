@@ -3,7 +3,7 @@
 major in ***"Finance and Banking & Computer Science and Engineering"***
 
 ### 🧩 Education & Experience
-- 컴퓨터공학과 복수전공 `(2024.03 ~ )`
+- 컴퓨터공학 복수전공 `(2024.03 ~ )`
 - KSEB 부트캠프 4기 우수교육생 `(2025.01 ~ 2025.11)`
 - Amazon Cloud Club INHA `(2025.09 ~ )`
 - 탄소중립 INOVATION ACADEMY 5기 개인역량우수 `(2025.09 ~ 2026.01)`
