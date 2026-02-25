@@ -24,6 +24,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
   </a>
 </p>
 
+<!--
 ### 📈 GitHub Stats
 
 <p align="left"> 
@@ -31,7 +32,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
   <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&theme=onedark&layout=compact&card_width=450&langs_count=6&cache_seconds=900" alt="Top Langs" /> 
 </p>
-
+-->
 
 <!--
 **Sangrix/Sangrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
