@@ -10,7 +10,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 - 탄소중립 INOVATION ACADEMY 5기 개인역량우수 `(2025.09 ~ 2026.01)`
 
 
-### 📖 In Progress
+### 🌱 In Progress
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,nodejs,redis" />
@@ -26,7 +26,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 </p>
 
 
-### 📈 GitHub Stats
+### 📖 GitHub Stats
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sangrix&count_private=true&show_icons=true&theme=onedark&card_width=450&cache_seconds=900" alt="Sangrix's GitHub stats" /> 
   <br /> 
