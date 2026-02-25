@@ -21,7 +21,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 ### 🛠️ Tech Stacks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,r,py,java,spring,mysql,postgres,ubuntu,aws,githubactions,nginx,docker" />
+    <img src="https://skillicons.dev/icons?i=cpp,r,py,java,spring,hibernate,mysql,ubuntu,aws,githubactions,nginx,docker" />
   </a>
 </p>
 
