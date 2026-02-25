@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 major in ***"Finance and Banking & Computer Science and Engineering"***
+---
 
 ### 🧩 Education & Experience
 - 컴퓨터공학 복수전공 `(2024.03 ~ )`
