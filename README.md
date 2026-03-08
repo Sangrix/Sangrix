@@ -5,7 +5,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 ---
 ### 🧩 Education & Experience
 - 컴퓨터공학 복수전공 `[2024.03 ~ ]`
-- KSEB 4기 우수교육생 `[2025.01 ~ 2025.11]`
+- K-Software Empowerment BootCamp 4기 우수교육생 `[2025.01 ~ 2025.11]`
 - Amazon Cloud Club INHA `[2025.09 ~ ]`
 - 탄소중립 INNOVATION ACADEMY 5기 개인역량우수 `[2025.09 ~ 2026.01]`
 - UMC 10th SpringBoot Server 파트 `[2026.03 ~ ]`
