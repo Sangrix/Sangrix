@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 "한계를 마주했을 때 멈추지 않고 다음으로 나아가는 태도를 가진" 최민상입니다!
 
 major in ***"Finance and Banking & Computer Science and Engineering"***.
 
