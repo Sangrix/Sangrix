@@ -7,8 +7,8 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 - K-Software Empowerment BootCamp 4기 우수교육생 `[2025.01 ~ 2025.11]`
 - Amazon Cloud Club INHA `[2025.09 ~ 12]`
 - 탄소중립 INNOVATION ACADEMY 5기 개인역량우수 `[2025.09 ~ 2026.01]`
-- UMC 10th SpringBoot Server 파트 `[2026.03 ~ ]`
-- 탄소중립 INNOVATION ACADEMY 6기 `[2026.03 ~ ]`
+- UMC 10th SpringBoot Server 파트 시니어 챌린저`[2026.03 ~ ]`
+- 탄소중립 INNOVATION ACADEMY 6기 회장 `[2026.03 ~ ]`
 
 
 ### 📖 In Progress
