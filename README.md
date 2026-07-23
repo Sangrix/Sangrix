@@ -27,13 +27,18 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 </p>
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Sangrix?pet-id=1&contribution-view=false" width="1000" height="120"/>
+</a>
+
+<!--
 ### 🌱 GitHub Stats
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sangrix&count_private=true&show_icons=true&theme=onedark&card_width=450&cache_seconds=900" alt="Sangrix's GitHub stats" /> 
   <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangrix&theme=onedark&layout=compact&card_width=450&langs_count=6&cache_seconds=900" alt="Top Langs" /> 
 </p>
-
+-->
 
 <!--
 **Sangrix/Sangrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
