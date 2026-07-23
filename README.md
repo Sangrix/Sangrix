@@ -27,8 +27,12 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 </p>
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Sangrix"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Sangrix&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Sangrix"
+  width="600"
+  height="300"
+/>
 </a>
 
 
