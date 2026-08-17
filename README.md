@@ -10,7 +10,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 - UMC 10th SpringBoot Server 파트 시니어 챌린저`[26.03 ~ 26.08]`
 - 탄소중립 INNOVATION ACADEMY 6기 회장 `[26.03 ~ 26.06]`
 - UMC 11th 교육국장 `[26.08 ~ ]`
-- AWS Student Builder Group (구 ACC) Core 멤버 `[26.08 ~ ]` 
+- AWS Student Builder Group Core 멤버 `[26.08 ~ ]` 
 
 
 ### 📖 In Progress
