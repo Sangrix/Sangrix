@@ -3,7 +3,6 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 
 ---
 ### 🧩 Education & Experience
-- 컴퓨터공학 복수전공 `[24.03 ~ ]`
 - K-Software Empowerment BootCamp 4기 우수교육생 `[25.01 ~ 25.11]`
 - Amazon Cloud Club INHA `[25.09 ~ 25.12]`
 - 탄소중립 INNOVATION ACADEMY 5기 개인역량우수 `[25.09 ~ 26.01]`
