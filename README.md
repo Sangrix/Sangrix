@@ -28,6 +28,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 </p>
 
 
+<!--
 <details>
 <summary> GitAnimals Farm</summary>
 
@@ -40,7 +41,7 @@ major in ***"Finance and Banking & Computer Science and Engineering"***
 </a>
 
 </details>
-
+-->
 
 <!--
 <a href="https://github.com/devxb/gitanimals">
